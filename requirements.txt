@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+jinja2
+python-multipart
+# optional for load testing
+locust
